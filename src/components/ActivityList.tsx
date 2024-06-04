@@ -1,4 +1,4 @@
-import { Activity, Category } from "../type"
+import { Activity } from "../type"
 import { categories } from "../data/categories"
 import React, { useMemo } from "react"
 import { PencilSquareIcon, XCircleIcon } from '@heroicons/react/24/outline'

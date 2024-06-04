@@ -58,7 +58,7 @@ export const activityReducer = (
     if (action.type === 'restart-app') {
         return {
             activities: [],
-            activiId: ''
+            activeId: ''
         }
     }
 
